@@ -1,22 +1,29 @@
 ### Hi there 👋
 
+I'm just another junior developer!
+
+I started with Python, but JAVA is my thing and right now everything is mainly around it.
+Also work with Angular.
+
+I work a lot with games, like FiveM and already have some implementations for it.
+
 <!--
 **testeves260/testeves260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-## Stats   
+- 🔭 Right now, I’m currently working on a personal project that involves angular and REST api using JAVA, it's a condominium management system (private repos).
+- 🌱 I’m currently learning microservices and AWS services
+- 👯 I’m looking to collaborate on FiveM projects
 
-   <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=testeves260&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
-   </p>
+- 📫 How to reach me: email or pm me
+
+## My Stats
+<p align="center">
+   <div style="width: 15%; display: inline-block;">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=testeves260&layout=compact&theme=cobalt&hide_border=true&count_private=true&show_icons=true" />
+      <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testeves260&layout=compact" />
+   </div>
+</p>
