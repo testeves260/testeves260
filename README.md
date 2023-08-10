@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I'm just another junior developer!
+    private static void ifYouKnowYouKnow() {
+        IntStream.range(0, 10)
+                .filter(i -> i % 2 == 0)
+                .mapToObj(i -> String.format("Mastery level: %d", i * i))
+                .forEachOrdered(System.out::println);
 
-I started with Python, but JAVA is my thing and right now everything is mainly around it.
-Also work with Angular.
-
-I work a lot with games, like FiveM and already have some implementations for it.
-
+        String secret = "746865207361666520736563726574";
+        byte[] decodedBytes = DatatypeConverter.parseHexBinary(secret);
+        System.out.println(new String(decodedBytes));
+    }
 <!--
 **testeves260/testeves260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
