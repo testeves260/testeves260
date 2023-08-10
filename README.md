@@ -12,7 +12,7 @@
                 .mapToObj(i -> String.format("Mastery level: %d", i * i))
                 .forEachOrdered(System.out::println);
 
-        String secret = "" // Guess;
+        String secret = "" // It lays as an enigma;
         byte[] decodedBytes = DatatypeConverter.parseHexBinary(secret);
         System.out.println(new String(decodedBytes));
     }
